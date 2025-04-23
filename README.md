@@ -33,10 +33,3 @@ git add dataset_location.txt
 git commit -m "Add reference to dataset in GCS"
 git push origin main
 ```
-
-This approach has several advantages:
-
-No file size limitations to worry about
-Direct access from Dataproc and other GCP services
-Better performance for distributed processing
-Proper separation of code (GitHub) and data (GCS)

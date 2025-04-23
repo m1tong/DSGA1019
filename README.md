@@ -3,7 +3,7 @@
    
 2. Authenticate with Google Cloud:
 ```
-bashgcloud auth login
+gcloud auth login
 ```
 
 3. Set your project ID:
